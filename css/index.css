@@ -160,20 +160,8 @@ aside{
 	}
 	
 	aside{
-		width: 90%;
-		height: 50px;
-	    margin: 20px auto auto;
-	    text-align: center;
-	    position: relative;
-		background: #ef8400; /* Old browsers */
-		background: -moz-linear-gradient(-45deg, #ef8400 0%, #954a09 100%); /* FF3.6+ */
-		background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ef8400), color-stop(100%,#954a09)); /* Chrome,Safari4+ */
-		background: -webkit-linear-gradient(-45deg, #ef8400 0%,#954a09 100%); /* Chrome10+,Safari5.1+ */
-		background: -o-linear-gradient(-45deg, #ef8400 0%,#954a09 100%); /* Opera 11.10+ */
-		background: -ms-linear-gradient(-45deg, #ef8400 0%,#954a09 100%); /* IE10+ */
-		background: linear-gradient(135deg, #ef8400 0%,#954a09 100%); /* W3C */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef8400', endColorstr='#954a09',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-	}	
+		 display: none;
+	}
 	
 	#containerIconRercerca{
 		display: none !important;
